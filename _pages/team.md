@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new Master and Bachelor students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-## Current team members
+## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
