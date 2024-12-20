@@ -6,3 +6,54 @@
   education1: Research Engineer, 2012 Lab, Huawei Technology
   education2: Ph.D. with <a href="https://www.civil.hku.hk/scwong/"> Prof. S.C. Wong</a>, The University of Hong Kong
   education3: B.Eng. with <a href="https://person.zju.edu.cn/en/xiqun">J Prof. Xiqun Chen</a>, Zhejiang University 
+
+- name: Yuan Che
+  photo: yuanche.png
+  info: Master, started Sep 2023
+  email: cy9866cy@163.com
+  number_educ: 1
+  education1: B.Eng., Anhui Jianzhu University
+
+- name: Zexuan Li
+  photo: zexuanli.png
+  info: Master, started Sep 2023
+  email: 13546545806@163.com
+  number_educ: 1
+  education1: B.Eng., Nantong University
+
+- name: Zhihao Zhou
+  photo: zhihaozhou.png
+  info: Master, started Sep 2023
+  email: 772973238@qq.com
+  number_educ: 1
+  education1: B.Eng., Ningbo University of Technology
+
+- name: Zewei Li
+  photo: zeweili.png
+  info: Master, started Sep 2024
+  email: 18067406409@163.com
+  number_educ: 1
+  education1: B.Eng., Ningbo University of Technology
+
+- name: Siyu Cao
+  photo: siyucao.png
+  info: Master, started Sep 2024
+  email: caosiyu77y@163.com 
+  number_educ: 1
+  education1: B.Eng., Shandong Agriculture And Engineering University
+
+- name: Tao Miao
+  photo: taomiao.png
+  info: Master, started Sep 2024
+  email: 2718576840@qq.com
+  number_educ: 1
+  education1: B.Eng., Zhejiang Shuren University
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://charlesyyun.github.io/tsilab/vacancies">openings</a> for more info
+  email: yeyun1@nbu.edu.cn
+  number_educ: 0
+  education1:
+  education2:
+  education3:
