@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -53,9 +53,15 @@ permalink: /publications/
 
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+<em>Ye, Y., Li, Z., Liang, H., Sun, J., Che, Y. & Zhou, Z.</em><br />Assessment Method for Attention Allocation Mechanism of Pedestrian Crossing Based on Virtual Reality Simulation<br /> Publication No.: CN118865280A (2024)
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em>Ye, Y., Xu, P., Li, Z., Zheng, P., Xing, L., Cao, S., & Miao, T.</em><br /> A Method and System for Analyzing Influencing Factors of Economic Losses Due to Accidents <br /> Application No.: 202411323810.0 (2024)
+
+<em>Ye, Y., Liang, H., Sun, J., Chen, X., Zhou, Z., Xu, P., Che, Y. & Li, Z.</em><br /> A route choice optimization method for dynamic user equilibrium under strongly heterogeneous cost fields <br /> Publication No.: CN118607740A (2024)
+
+<em>Zhang, S., Liu, Z., Ye, Y. & Xie, S.</em><br /> A method, device, electronic equipment, and storage medium for road network simulation <br /> Publication No.: CN118194480A (2024)
+
+<em>Chen, X., Zhang, S., Chen, C., Chen, X., Zheng, H., Shen, K., Ye, Y. & Sun, W.</em><br /> An OD calibration method for residential trip using mobile phone data and dynamic traffic assignment <br /> Publication No.: CN106571032A (2017)
 
 ## Full List of publications
 
