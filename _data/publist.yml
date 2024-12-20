@@ -1,7 +1,7 @@
 - title: "Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning"
   image: ShotNoise.png
   description: "(SSCI, JCR Q1, IF 5.1)"
-  authors: "Ye, Y., Zheng, P., Liang, H., Chen, X., Wong, S.C., Xu, P."
+  authors: "Ye, Y., Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P.* (2024)"
   link:
     url: "https://doi.org/10.1016/j.tbs.2024.100760"
     display: "Travel Behaviour and Society, 35, 100760"
@@ -10,7 +10,7 @@
 - title: "Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules"
   image: ShotNoise.png
   description: "(SCI, JCR Q1, IF 4.7)"
-  authors: "Ye, Y., Wong, S.C., Li, Y.C., Choi, K.M."
+  authors: "Ye, Y., Wong, S.C.*, Li, Y.C., & Choi, K.M. (2023)"
   link:
     url: "https://doi.org/10.1016/j.ssci.2022.105924"
     display: "Safety Science, 157, 105924"
@@ -19,7 +19,7 @@
 - title: "Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules"
   image: ShotNoise.png
   description: "(SSCI, JCR Q1, IF 5.7)"
-  authors: "Ye, Y., Wong, S.C., Meng, F., Xu, P."
+  authors: "Ye, Y., Wong, S.C., Meng, F., & Xu, P.* (2021)"
   link:
     url: "https://doi.org/10.1016/j.aap.2020.105921"
     display: "Accident Analysis & Prevention, 150, 105921"
@@ -28,7 +28,7 @@
 - title: "Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach"
   image: ShotNoise.png
   description: "(SSCI, JCR Q1, IF 5.7)"
-  authors: "Ye, Y., Wong, S.C., Li, Y.C., Lau, Y.K."
+  authors: "Ye, Y., Wong, S.C., Li, Y.C., & Lau, Y.K.* (2020)"
   link:
     url: "https://doi.org/10.1016/j.aap.2020.105565"
     display: "Accident Analysis & Prevention, 142, 105565"
@@ -37,7 +37,7 @@
 - title: "A Novel virtual arrival optimization method for traffic organization scenarios"
   image: ShotNoise.png
   description: "(SCI/SSCI, JCR Q2, IF 3.3)"
-  authors: "Shao, T., Du, W., Ye, Y., Li, H., Dong, J., Liu, G., Zheng, P."
+  authors: "Shao, T., Du, W., Ye, Y., Li, H., Dong, J., Liu, G.*, & Zheng, P.* (2024)"
   link:
     url: "https://doi.org/10.1016/j.sust.2024.101010"
     display: "Sustainability, 16(1), 403"
@@ -46,7 +46,7 @@
 - title: "Effects of aging on taxi service performance: A comparative study based on different age groups"
   image: ShotNoise.png
   description: "(SCI/SSCI, JCR Q2, IF 3.3)"
-  authors: "Lin, X., Huang, Z., Ye, Y., Dong, J., Feng, H., Zheng, P."
+  authors: "Lin, X., Huang, Z., Ye, Y., Dong, J., Feng, H., & Zheng, P.* (2023)"
   link:
     url: "https://doi.org/10.1016/j.sust.2023.16096"
     display: "Sustainability, 15(22), 16096"
@@ -55,7 +55,7 @@
 - title: "Identification of risk influential factors for fishing vessel accidents using claims data from fishery mutual insurance association"
   image: ShotNoise.png
   description: "(SCI/SSCI, JCR Q2, IF 3.3)"
-  authors: "Wang, F., Du, W., Feng, H., Ye, Y., Grifoll, M., Liu, G., Zheng, P."
+  authors: "Wang, F., Du, W., Feng, H., Ye, Y., Grifoll, M., Liu, G.*, & Zheng, P.* (2023)"
   link:
     url: "https://doi.org/10.1016/j.sust.2023.13427"
     display: "Sustainability, 15(18), 13427"
