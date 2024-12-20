@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand the complex interactions between pedestrians and traffic systems, particularly focusing on new quantum states of electronic matter on the atomic scale. To achieve this, we employ and develop cutting-edge virtual reality (VR) and data analysis tools to visualize and analyze the relevant behavioral and psychological degrees of freedom.
+Our overarching goal is to explore and understand the complex interactions between pedestrians and traffic systems, particularly focusing on psychology, behavior, and safety of road users. To achieve this, we employ and develop cutting-edge virtual reality (VR) and data analysis tools to visualize and analyze the relevant behavioral and psychological degrees of freedom.
 
 Our mission is to construct instruments and methodologies that empower us to delve into the questions we find most intriguing. This endeavor is facilitated by our team's diverse expertise in various research themes and technologies. We have team members who have honed their skills in VR and traffic psychology, drawing from experiences in leading labs and bringing a wealth of knowledge to our collaborative projects. We further enhance our capabilities by integrating group members with different backgrounds and interests, working in unison on the physics of human behavior and the instrumentation needed to study it.
 
