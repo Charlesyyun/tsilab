@@ -19,6 +19,13 @@
   number_educ: 1
   education1: B.Eng., Ningbo University of Technology
 
+- name: Atanasio Djau
+  photo: male.png
+  info: Master, started Sep 2023
+  email: 
+  number_educ: 0
+  education1: 
+  
 - name: Zewei Li
   photo: zeweili.png
   info: Master, started Sep 2024
@@ -42,38 +49,38 @@
 
 - name: Jiahao Zhang
   photo: male.png
-  info: B.Eng., started Sep 2021
+  info: Bachelor, started Sep 2021
   email: 
   number_educ: 1
-  education1: B.Eng. Student, Ningbo University
+  education1: Bachelor Student, Ningbo University
 
 - name: Qinyue Tan
   photo: female.png
-  info: B.Eng., started Sep 2021
+  info: Bachelor, started Sep 2021
   email: 
   number_educ: 1
-  education1: B.Eng. Student, Ningbo University
+  education1: Bachelor Student, Ningbo University
 
 - name: Yijie Jin
   photo: male.png
-  info: B.Eng., started Sep 2021
+  info: Bachelor, started Sep 2021
   email: 
   number_educ: 1
-  education1: B.Eng. Student, Ningbo University
+  education1: Bachelor Student, Ningbo University
 
 - name: Zhou Li
   photo: male.png
-  info: B.Eng., started Sep 2021
+  info: Bachelor, started Sep 2021
   email: 
   number_educ: 1
-  education1: B.Eng. Student, Ningbo University
+  education1: Bachelor Student, Ningbo University
 
 - name: Aoyu Zhang
   photo: male.png
-  info: B.Eng., started Sep 2021
+  info: Bachelor, started Sep 2021
   email: 
   number_educ: 1
-  education1: B.Eng. Student, Ningbo University
+  education1: Bachelor Student, Ningbo University
   
 - name: "This could be you !"
   photo: rock.jpg
