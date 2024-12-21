@@ -4,7 +4,7 @@
   email: cy9866cy@163.com
   number_educ: 2
   education1: B.Eng., Anhui Jianzhu University
-  education2: Research interest: Safety of autonomous trucks, pedestrian behavior
+  education2: Research interests include safety of autonomous trucks, and pedestrian behavior
 
 - name: Zexuan Li
   photo: zexuanli.png
@@ -12,7 +12,7 @@
   email: 13546545806@163.com
   number_educ: 2
   education1: B.Eng., Nantong University
-  education2: Research interest: external Human-Machine Interfaces, AVs, cognition decision process
+  education2: Research interests include external Human-Machine Interfaces, AVs, and cognition decision process
 
 - name: Zhihao Zhou
   photo: zhihaozhou.png
@@ -20,14 +20,14 @@
   email: 772973238@qq.com
   number_educ: 2
   education1: B.Eng., Ningbo University of Technology
-  education2: Research interest: Pedestrian-AVs interaction, social force model, data-based model, trajectory prediction
+  education2: Research interests include pedestrian-AVs interaction, social force model, data-based model, and trajectory prediction
 
 - name: Atanasio Djau
   photo: male.png
   info: Master, started Sep 2023
   email: 
   number_educ: 1
-  education1: Research interest: TOPSIS analysis, Port evaluation
+  education1: Research interests include TOPSIS analysis and port evaluation
   
 - name: Zewei Li
   photo: zeweili.png
@@ -35,7 +35,7 @@
   email: 18067406409@163.com
   number_educ: 2
   education1: B.Eng., Ningbo University of Technology
-  education2: Research interest: Data mining, traffic accident modeling
+  education2: Research interests include data mining and traffic accident modeling
 
 - name: Siyu Cao
   photo: siyucao.png
@@ -43,7 +43,7 @@
   email: caosiyu77y@163.com 
   number_educ: 2
   education1: B.Eng., Shandong Agriculture And Engineering University
-  education2: Research interest: Robotaxi, Travel mode choice
+  education2: Research interests include robotaxi and travel mode choice
 
 - name: Tao Miao
   photo: taomiao.png
@@ -51,7 +51,7 @@
   email: 2718576840@qq.com
   number_educ: 2
   education1: B.Eng., Zhejiang Shuren University
-  education2: Research interest: Traffic flow model, PINNs
+  education2: Research interests include traffic flow model and PINNs
 
 - name: Jiahao Zhang
   photo: jiahaozhang.png
@@ -59,7 +59,7 @@
   email: 
   number_educ: 2
   education1: Bachelor Student, Ningbo University
-  education2: Research interest: Super-resolution, vessel detection
+  education2: Research interest includes low-resolution vessel detection
 
 - name: Qinyue Tan
   photo: female.png
@@ -67,7 +67,7 @@
   email: 
   number_educ: 2
   education1: Bachelor Student, Ningbo University
-  education2: Research interest: Vessel accident statistical modeling
+  education2: Research interest includes vessel accident analysis
 
 - name: Yijie Jin
   photo: male.png
@@ -75,7 +75,7 @@
   email: 
   number_educ: 2
   education1: Bachelor Student, Ningbo University
-  education2: Research interest: Machine learning for vessel accident prediction
+  education2: Research interest includes vessel accident prediction
 
 - name: Zhou Li
   photo: male.png
@@ -83,7 +83,7 @@
   email: 
   number_educ: 2
   education1: Bachelor Student, Ningbo University
-  education2: Research interest: Low-light vessel detection
+  education2: Research interest includes low-light vessel detection
   
 - name: Aoyu Zhang
   photo: male.png
@@ -91,7 +91,7 @@
   email: 
   number_educ: 2
   education1: Bachelor Student, Ningbo University
-  education2: Research interest: Public trust and acceptance of automated vessel
+  education2: Research interest includes public acceptance of autonomous vessel
   
 - name: "This could be you !"
   photo: rock.jpg
