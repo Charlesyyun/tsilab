@@ -1,3 +1,12 @@
+- title: "SmartPL: An integrated approach for platoons driving on mixed-traffic freeways"
+  image: itsc1.jpg
+  description: "CCF C, EI"
+  authors: "Li, H., You, L.*, Xie, J., Ye, Y., & Tan, X. (2024, December 2-6)"
+  link:
+    url: ""
+    display: "The 31st International Conference on Neural Information Processing (ICONIP 2024), Auckland, New Zealand"
+  highlight: 1
+
 - title: "Exploring the influence of pedestrian attitude, propensity, and risk perception on gap acceptance between platooning autonomous trucks"
   image: itsc1.jpg
   description: "EI"
@@ -6,7 +15,7 @@
     url: ""
     display: "The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024), Edmonton, Canada"
   highlight: 1
-  
+
 - title: "Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning"
   image: tbs1.png
   description: "SSCI, JCR Q1, IF 5.1"
