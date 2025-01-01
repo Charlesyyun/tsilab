@@ -20,5 +20,5 @@ If you are a Master student at Ningbo University looking for a Master project, c
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/nbu2.jpg" width="95%">
 </figure>
