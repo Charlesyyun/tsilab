@@ -1,3 +1,12 @@
+- title: "Distance-informed Neural Eikonal Solver for reactive dynamic user-equilibrium of macroscopic continuum traffic flow model"
+  image: tits1.png
+  description: "SSCI, JCR Q1, IF 5.1"
+  authors: "Ye, Y., Liang, H., Sun, J., & Chen, X.* (2025)"
+  link:
+    url: "in press"
+    display: "IEEE Transactions on Intelligent Transportation Systems, in press"
+  highlight: 1
+  
 - title: "Text as data: narrative mining of non-collision injury incidents on public buses by structural topic modeling"
   image: tbs2.png
   description: "SSCI, JCR Q1, IF 5.1"
