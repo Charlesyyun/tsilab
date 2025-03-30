@@ -1,3 +1,12 @@
+- title: "USD-YOLO: An Enhanced YOLO Algorithm for Small Object Detection in Unmanned Systems Perception"
+  image: 
+  description: "SCI, JCR Q1, IF 2.5"
+  authors: "Ye, Y., Liang, H., Sun, J., & Chen, X.* (2025)"
+  link:
+    url: "https://doi.org/10.3390/app15073795"
+    display: "Applied Sciences, 15(7), 3795"
+  highlight: 0
+  
 - title: "Distance-informed Neural Eikonal Solver for reactive dynamic user-equilibrium of macroscopic continuum traffic flow model"
   image: tits1.png
   description: "SCI, JCR Q1, CCF B, IF 7.9"
