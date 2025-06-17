@@ -2,8 +2,9 @@
   photo: male.png
   info: B.Eng., graduated 2024
   email: 
-  number_educ: 1
+  number_educ: 2
   education1: B.Eng., Ningbo University
+  education2: The influence of rainy and foggy weather on human-vehicle interaction in the port
   
 - name: Xiang Li
   photo: male.png
@@ -11,46 +12,47 @@
   email: 
   number_educ: 1
   education1: B.Eng., Ningbo University
+  education2: Study on subjective risk perception of pedestrian-vehicle interaction on port roads
 
 - name: Jiahao Zhang
   photo: jiahaozhang.png
-  info: Bachelor, started Sep 2021
+  info: Bachelor, graduated 2025
   email: 
   number_educ: 3
-  education1: Bachelor Student, Ningbo University
-  education2: Research interest includes low-resolution vessel detection
+  education1: B.Eng., Ningbo University
+  education2: Research on ship target detection under low resolution conditions
   education3: Outstanding dissertation award
 
 - name: Qinyue Tan
   photo: female.png
-  info: Bachelor, started Sep 2021
+  info: Bachelor, graduated 2025
   email: 
   number_educ: 3
-  education1: Bachelor Student, Ningbo University
-  education2: Research interest includes vessel accident analysis
+  education1: B.Eng., Ningbo University
+  education2: Random parameter model-based analysis of influencing factors in ship accidents
   education3: Outstanding dissertation award
 
 - name: Yijie Jin
   photo: male.png
-  info: Bachelor, started Sep 2021
+  info: Bachelor, graduated 2025
   email: 
   number_educ: 3
-  education1: Bachelor Student, Ningbo University
-  education2: Research interest includes vessel accident prediction
+  education1: B.Eng., Ningbo University
+  education2: Prediction and analysis of ship accidents based on machine learning algorithm
   education3: Outstanding dissertation award
 
 - name: Zhou Li
   photo: male.png
-  info: Bachelor, started Sep 2021
+  info: Bachelor, graduated 2025
   email: 
   number_educ: 2
-  education1: Bachelor Student, Ningbo University
-  education2: Research interest includes low-light vessel detection
+  education1: B.Eng., Ningbo University
+  education2: Research on ship target detection under low light condition
   
 - name: Aoyu Zhang
   photo: male.png
-  info: Bachelor, started Sep 2021
+  info: Bachelor, graduated 2025
   email: 
   number_educ: 2
-  education1: Bachelor Student, Ningbo University
-  education2: Research interest includes public acceptance of autonomous vessel
+  education1: B.Eng., Ningbo University
+  education2: Investigation and analysis of trust in autonomous driving ship
