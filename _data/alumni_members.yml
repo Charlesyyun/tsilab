@@ -1,3 +1,11 @@
+- name: Xiang Li
+  photo: male.png
+  info: B.Eng., graduated 2024
+  email: 
+  number_educ: 2
+  education1: B.Eng., Ningbo University
+  education2: Study on subjective risk perception of pedestrian-vehicle interaction on port roads
+  
 - name: Yaoxuan Huang
   photo: male.png
   info: B.Eng., graduated 2024
@@ -5,14 +13,6 @@
   number_educ: 2
   education1: B.Eng., Ningbo University
   education2: The influence of rainy and foggy weather on human-vehicle interaction in the port
-  
-- name: Xiang Li
-  photo: male.png
-  info: B.Eng., graduated 2024
-  email: 
-  number_educ: 1
-  education1: B.Eng., Ningbo University
-  education2: Study on subjective risk perception of pedestrian-vehicle interaction on port roads
 
 - name: Jiahao Zhang
   photo: jiahaozhang.png
