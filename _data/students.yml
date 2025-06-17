@@ -52,6 +52,22 @@
   number_educ: 2
   education1: B.Eng., Zhejiang Shuren University
   education2: Research interests include traffic flow model and PINNs
+
+- name: Bin Fang
+  photo: binfang.png
+  info: Master, started Sep 2025
+  email: 19126719617@163.com
+  number_educ: 2
+  education1: B.Eng., Ningbo University of Technology
+  education2: To be determined
+
+- name: Meijiao Guo
+  photo: meijiaoguo.png
+  info: Master, started Sep 2025
+  email: guomeijiao2000@163.com
+  number_educ: 2
+  education1: B.Eng., Shanxi Institute of Energy
+  education2: To be determined
   
 - name: "This could be you !"
   photo: rock.jpg
