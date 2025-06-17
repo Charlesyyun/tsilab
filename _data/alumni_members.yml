@@ -16,30 +16,27 @@
 
 - name: Jiahao Zhang
   photo: jiahaozhang.png
-  info: Bachelor, graduated 2025
+  info: Bachelor, graduated 2025 (Outstanding dissertation award)
   email: 
-  number_educ: 3
+  number_educ: 2
   education1: B.Eng., Ningbo University
   education2: Research on ship target detection under low resolution conditions
-  education3: Outstanding dissertation award
 
 - name: Qinyue Tan
   photo: female.png
-  info: Bachelor, graduated 2025
+  info: Bachelor, graduated 2025 (Outstanding dissertation award)
   email: 
-  number_educ: 3
+  number_educ: 2
   education1: B.Eng., Ningbo University
   education2: Random parameter model-based analysis of influencing factors in ship accidents
-  education3: Outstanding dissertation award
 
 - name: Yijie Jin
   photo: male.png
-  info: Bachelor, graduated 2025
+  info: Bachelor, graduated 2025 (Outstanding dissertation award)
   email: 
-  number_educ: 3
+  number_educ: 2
   education1: B.Eng., Ningbo University
   education2: Prediction and analysis of ship accidents based on machine learning algorithm
-  education3: Outstanding dissertation award
 
 - name: Zhou Li
   photo: male.png
