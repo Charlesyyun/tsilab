@@ -3,8 +3,8 @@
   description: "SCI, JCR Q1, IF 6.2"
   authors: "Zhou, Q., Chai, B., Guo, Y., Wu, H., Wang, K., & Ye, Y.* (2025)"
   link:
-    url: "in press"
-    display: "Alexandria Engineering Journal, in press"
+    url: "https://doi.org/10.1016/j.aej.2025.06.020"
+    display: "Alexandria Engineering Journal, 129, 137-167"
   highlight: 1
   
 - title: "A Transformer–VAE Approach for Detecting Ship Trajectory Anomalies in Cross-Sea Bridge Areas"
