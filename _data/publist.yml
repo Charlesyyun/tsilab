@@ -1,6 +1,6 @@
 - title: "Feature enhancement based aero-engine lubricant consumption prediction: A BiTCN-BiGRU-Attention approach"
   image: aej1.png
-  description: "SCI, JCR Q1, IF 6.2"
+  description: "SCI, JCR Q1, IF 6.8"
   authors: "Zhou, Q., Chai, B., Guo, Y., Wu, H., Wang, K., & Ye, Y.* (2025)"
   link:
     url: "https://doi.org/10.1016/j.aej.2025.06.020"
@@ -9,7 +9,7 @@
   
 - title: "A Transformer–VAE Approach for Detecting Ship Trajectory Anomalies in Cross-Sea Bridge Areas"
   image: 
-  description: "SCI, JCR Q1, IF 2.7"
+  description: "SCI, JCR Q1, IF 2.8"
   authors: "Hou, J., Zhou, H., Grifoll, M., Zhou, Y., Liu, J., Ye, Y.*, & Zheng, P. (2025)"
   link:
     url: "https://doi.org/10.3390/jmse13050849"
@@ -18,7 +18,7 @@
   
 - title: "Modeling economic loss associated with fishing vessel accidents: A Bayesian random-parameter generalized beta of the second kind model with heterogeneity in means"
   image: amar1.png
-  description: "SSCI, JCR Q1, IF 12.5"
+  description: "SSCI, JCR Q1, IF 12.6"
   authors: "Ye, Y., Zheng, P., Wang, Q., Wong, S.C., & Xu, P.* (2025)"
   link:
     url: "https://doi.org/10.1016/j.amar.2025.100384"
@@ -27,7 +27,7 @@
   
 - title: "USD-YOLO: An Enhanced YOLO Algorithm for Small Object Detection in Unmanned Systems Perception"
   image: 
-  description: "SCI, JCR Q1, IF 2.5"
+  description: "SCI, JCR Q1, IF 2.7"
   authors: "Deng, H., Zhang, S., Wang, X., Han, T. & Ye, Y.* (2025)"
   link:
     url: "https://doi.org/10.3390/app15073795"
@@ -36,7 +36,7 @@
   
 - title: "Distance-informed Neural Eikonal Solver for reactive dynamic user-equilibrium of macroscopic continuum traffic flow model"
   image: tits1.png
-  description: "SCI, JCR Q1, CCF B, IF 7.9"
+  description: "SCI, JCR Q1, CCF B, IF 8.4"
   authors: "Ye, Y., Liang, H., Sun, J., & Chen, X.* (2025)"
   link:
     url: "https://doi.org/10.1109/TITS.2025.3543972"
@@ -45,7 +45,7 @@
   
 - title: "Text as data: narrative mining of non-collision injury incidents on public buses by structural topic modeling"
   image: tbs2.png
-  description: "SSCI, JCR Q1, IF 5.1"
+  description: "SSCI, JCR Q1, IF 5.7"
   authors: "Xu, P., Wang, Q., Ye, Y., Wong, S.C., & Zhou, H.* (2025)"
   link:
     url: "https://doi.org/10.1016/j.tbs.2024.100981"
@@ -72,7 +72,7 @@
 
 - title: "Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning"
   image: tbs1.png
-  description: "SSCI, JCR Q1, IF 5.1"
+  description: "SSCI, JCR Q1, IF 5.7"
   authors: "Ye, Y., Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P.* (2024)"
   link:
     url: "https://doi.org/10.1016/j.tbs.2024.100760"
@@ -81,7 +81,7 @@
 
 - title: "Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules"
   image: ss1.png
-  description: "SCI, JCR Q1, IF 4.7"
+  description: "SCI, JCR Q1, IF 5.4"
   authors: "Ye, Y., Wong, S.C.*, Li, Y.C., & Choi, K.M. (2023)"
   link:
     url: "https://doi.org/10.1016/j.ssci.2022.105924"
@@ -90,7 +90,7 @@
 
 - title: "Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules"
   image: aap2.png
-  description: "SSCI, JCR Q1, IF 5.7"
+  description: "SSCI, JCR Q1, IF 6.2"
   authors: "Ye, Y., Wong, S.C.*, Meng, F., & Xu, P. (2021)"
   link:
     url: "https://doi.org/10.1016/j.aap.2020.105921"
@@ -99,7 +99,7 @@
 
 - title: "Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach"
   image: aap1.png
-  description: "SSCI, JCR Q1, IF 5.7"
+  description: "SSCI, JCR Q1, IF 6.2"
   authors: "Ye, Y., Wong, S.C.*, Li, Y.C., & Lau, Y.K. (2020)"
   link:
     url: "https://doi.org/10.1016/j.aap.2020.105565"
