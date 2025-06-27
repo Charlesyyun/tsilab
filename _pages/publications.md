@@ -53,7 +53,7 @@ permalink: /publications/
 
 
 ## Patents
-<em>Ye, Y., Zhou, Z., Liang, H., Xie, J., Ying, C., Li, Z., & Che, Y.</em><br />The Human-Vehicle Interaction Simulation Method, System, and Application Based on the Improved Social Force Model<br /> Application No.: 2024119320397 (2024)
+<em>Ye, Y., Zhou, Z., Liang, H., Xie, J., Ying, C., Li, Z., & Che, Y.</em><br />The Human-Vehicle Interaction Simulation Method, System, and Application Based on the Improved Social Force Model<br /> Authorised No.: CN119358423B, Patent No. ZL202411932039.7 (2025)
 
 <em>Ye, Y., Li, Z., Liang, H., Sun, J., Che, Y. & Zhou, Z.</em><br />Assessment Method for Attention Allocation Mechanism of Pedestrian Crossing Based on Virtual Reality Simulation<br /> Authorised No.: CN118865280B, Patent No. ZL202411328427.4 (2024)
 
