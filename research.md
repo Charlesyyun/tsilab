@@ -48,8 +48,6 @@ We advance machine learning and physics-informed methods to model, predict, and 
 - **Physics-Informed Neural Networks (PINNs)** – Our distance-informed neural Eikonal solver addresses the limitations of discretization in solving dynamic traffic assignment PDEs, achieving higher accuracy in heterogeneous cost fields.
   
 - **Risk-aware pedestrian–vehicle interaction modeling** – We proposed a Bayesian-optimized Social Force Model with risk perception and adaptive decision-making, improving both trajectory accuracy and behavioral realism across diverse traffic scenarios.
-  
-- **Multimodal predictive maintenance** – We design BiTCN–BiGRU–Attention architectures and mixture-of-experts frameworks for aero-engine lubricant consumption prediction and mechanical fault diagnosis, integrating spectral, physicochemical, and time-series data for >95% diagnostic accuracy.
 
 ---
 
