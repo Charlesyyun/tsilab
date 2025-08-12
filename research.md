@@ -8,29 +8,53 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand the complex interactions between pedestrians and traffic systems, particularly focusing on psychology, behavior, and safety of road users. To achieve this, we employ and develop cutting-edge virtual reality (VR) and data analysis tools to visualize and analyze the relevant behavioral and psychological degrees of freedom.
+Our group investigates the complex interactions between humans and transportation systems, with a particular emphasis on the psychology, behavior, and safety of pedestrians, drivers, and other transport stakeholders. By integrating immersive virtual reality (VR) simulation, advanced data mining, and state-of-the-art artificial intelligence (AI) modeling, we examine how individuals perceive, decide, and act in diverse and safety-critical mobility contexts. Our research spans behavioral analysis, large-scale accident data modeling, and AI-driven traffic system prediction, enabling us to translate empirical insights into evidence-based strategies and decision-support tools for safer, more adaptive, and human-centered transport systems.
 
-Our mission is to construct instruments and methodologies that empower us to delve into the questions we find most intriguing. This endeavor is facilitated by our team's diverse expertise in various research themes and technologies. We have team members who have honed their skills in VR and traffic psychology, drawing from experiences in leading labs and bringing a wealth of knowledge to our collaborative projects. We further enhance our capabilities by integrating group members with different backgrounds and interests, working in unison on the physics of human behavior and the instrumentation needed to study it.
+Our interdisciplinary approach draws on transportation engineering, behavioral psychology, data science, and machine learning, bridging fundamental human factors research with advanced computational modeling to address real-world transport safety challenges.
 
-Here are some themes and techniques that we currently work on:
+---
 
-**Virtual Reality Pedestrian Simulation.** 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/aap1.png){: style="width: 250px; float: left; margin: 0px  10px"}
-We have developed a novel VR-based platform that allows us to simulate real-world traffic scenarios. This tool enables us to safely and effectively study pedestrian reactions without risking actual harm. We have used this instrument to uncover critical insights into how pedestrians navigate traffic systems, especially in contexts where driving rules differ from their home country.
+## 1. Behavioral Human Factors & Psychology
 
+We explore how cognitive, perceptual, and cultural factors shape pedestrian and driver behaviors, particularly in safety-critical situations.
 
-**Habitual Behavior and Maladaptation.** 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/aap2.png){: style="width: 250px; float: right; margin: 0px 10px"}
-Our research delves into the habitual behaviors of pedestrians and how these habits can lead to maladaptation in unfamiliar traffic systems. We have used structural equation modeling to understand the complex relationships between hometown driving rules, length of stay, and pedestrian adaptation to new traffic environments.
+- **Pedestrian behavior under unfamiliar traffic rules** – Using immersive VR simulations, we have identified habitual looking behaviors that increase pedestrian risk when crossing in traffic systems opposite to their home country’s driving rules.
 
-**Alcohol Influence on Pedestrian Behavior.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ss1.png){: style="width: 250px; float: left; margin: 0px  10px"}
-We explore how alcohol consumption affects pedestrian crossing behaviors, particularly under unfamiliar traffic rules. Our studies highlight the negative impact of alcohol on perceptual-motor response and the importance of understanding these effects to mitigate risks for foreign travelers.
+- **Alcohol impairment and decision-making** – Our VR experiments demonstrate how intoxication shifts pedestrian crossing motivations from safety to efficiency, increasing collision risk.
 
-**Inverse Reinforcement Learning for Pedestrian Motivations.** 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/tbs1.png){: style="width: 250px; float: right; margin: 0px 10px"}
-We harness inverse reinforcement learning to uncover the safety and efficiency motivations that drive pedestrian crossing behaviors, especially under the influence of alcohol. This approach allows us to model and understand the complex interplay between observed behaviors and unobservable motivations.
+- **Human–Autonomous Vehicle (AV) interaction** – Through VR eye-tracking studies, we examine how external human–machine interfaces (eHMIs) influence pedestrian attention, cognitive load, and crossing errors in complex multi-lane scenarios.
+- **Pedestrian–autonomous truck platoon interaction** – Using a VR video-based survey and a hybrid SEM–ANN approach, we revealed how trust, behavioral tendency, and risk perception shape pedestrian gap acceptance decisions in the presence of autonomous truck platoons.
+
+---
+
+## 2. Traffic Accident Analysis & Data Mining
+
+We develop statistical and computational frameworks to uncover hidden patterns in transport safety data, particularly in under-researched contexts.
+
+- **Bayesian random-parameter modeling** – We proposed a Bayesian random-parameter generalized beta of the second kind model with heterogeneity in means to accurately capture the skewed, heavy-tailed nature of economic losses from fishing vessel accidents.
+
+- **Quantile regression for heterogeneous effects** – Our Bayesian random-parameter quantile regression with heterogeneity in means (BRPQRHM) framework reveals how vessel, environmental, and accident-related factors vary across loss quantiles, informing targeted maritime safety policies.
+
+- **Text mining of safety reports** – Using structural topic modeling, we analyze over 12,000 police narratives of non-collision bus injuries to identify recurrent causal patterns and propose tailored countermeasures.
+
+---
+
+## 3. AI-based Traffic Modeling & Prediction
+
+We advance machine learning and physics-informed methods to model, predict, and optimize transportation systems.
+
+- **Inverse reinforcement learning (IRL)** – We apply IRL to quantify the latent safety–efficiency trade-offs in pedestrian crossing behaviors, enabling high-fidelity behavior modeling under different risk conditions.
+
+- **Physics-Informed Neural Networks (PINNs)** – Our distance-informed neural Eikonal solver addresses the limitations of discretization in solving dynamic traffic assignment PDEs, achieving higher accuracy in heterogeneous cost fields.
+  
+- **Risk-aware pedestrian–vehicle interaction modeling** – We proposed a Bayesian-optimized Social Force Model with risk perception and adaptive decision-making, improving both trajectory accuracy and behavioral realism across diverse traffic scenarios.
+  
+- **Multimodal predictive maintenance** – We design BiTCN–BiGRU–Attention architectures and mixture-of-experts frameworks for aero-engine lubricant consumption prediction and mechanical fault diagnosis, integrating spectral, physicochemical, and time-series data for >95% diagnostic accuracy.
+
+---
 
 ### ... and more.
 
-Through these research themes and techniques, we aim to advance our understanding of pedestrian behavior in traffic systems and contribute to the development of safer and more efficient urban environments. Our work is at the intersection of transportation science, behavioral psychology, and cutting-edge technology, pushing the boundaries of how we study and improve pedestrian safety.
+## Our Mission
+
+By combining behavioral science, accident analytics, and AI-driven modeling, our goal is to transform empirical behavioral insights into predictive and prescriptive tools for transport safety. We aim to support policy-makers, urban planners, and industry stakeholders in creating traffic environments that are safer, more adaptive, and human-centered.
