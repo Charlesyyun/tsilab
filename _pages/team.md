@@ -164,7 +164,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former PhD, BSc/ MSc students
+## Former PhD, Master, and Bachelor students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
