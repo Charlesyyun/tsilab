@@ -1,3 +1,12 @@
+- title: "Enhanced YOLOv8 with DWR-DRB and SPD-Conv for mechanical wear fault diagnosis in aero engines"
+  image: 
+  description: "SCI, JCR Q2, IF 3.5"
+  authors: "Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Nie, X., & Ye, Y.* (2025)"
+  link:
+    url: "in press"
+    display: "Sensors, in press"
+  highlight: 0
+  
 - title: "Enhancing multimodal fault diagnosis in mechanical systems via mixture of experts"
   image: cais1.png
   description: "SCI, JCR Q2, IF 4.6"
