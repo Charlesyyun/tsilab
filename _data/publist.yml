@@ -12,8 +12,8 @@
   description: "SCI, JCR Q2, IF 4.6"
   authors: "Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Wu, W., Cao, B., & Ye, Y.* (2025)"
   link:
-    url: "in press"
-    display: "Complex & Intelligent Systems, in press"
+    url: "https://doi.org/10.1007/s40747-025-02061-x"
+    display: "Complex & Intelligent Systems, 11, 425"
   highlight: 1
   
 - title: "Feature enhancement based aero-engine lubricant consumption prediction: A BiTCN-BiGRU-Attention approach"
