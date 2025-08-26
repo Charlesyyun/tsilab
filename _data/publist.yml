@@ -3,8 +3,8 @@
   description: "SCI, JCR Q2, IF 3.5"
   authors: "Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Nie, X., & Ye, Y.* (2025)"
   link:
-    url: "in press"
-    display: "Sensors, in press"
+    url: "https://doi.org/10.3390/s25175294"
+    display: "Sensors, 25(17), 5294"
   highlight: 0
   
 - title: "Enhancing multimodal fault diagnosis in mechanical systems via mixture of experts"
