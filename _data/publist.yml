@@ -3,8 +3,8 @@
   description: "ESCI, JCR Q1, IF 7.9"
   authors: "Zhou, Q., Chai, B., Guo, Y., Li, T., Zhou, S., Wang, K., & Ye, Y.* (2025)"
   link:
-    url: "in press"
-    display: "Results in Engineering, in press"
+    url: "https://doi.org/10.1016/j.rineng.2025.107204"
+    display: "Results in Engineering, 28, 107204"
   highlight: 0
   
 - title: "Varying effects of risk factors on economic losses from fishing vessel accidents: A Bayesian random-parameter quantile regression with heterogeneity in means"
@@ -12,8 +12,8 @@
   description: "SCI, JCR Q1, IF 11.0"
   authors: "Ye, Y., Zheng, P., Xu, P., Ren, Q., Yan, R., & Gao, X.* (2025)"
   link:
-    url: "in press"
-    display: "Reliability Engineering & System Safety, in press"
+    url: "https://doi.org/10.1016/j.ress.2025.111690"
+    display: "Reliability Engineering & System Safety, 266, 111690"
   highlight: 1
   
 - title: "Enhanced YOLOv8 with DWR-DRB and SPD-Conv for mechanical wear fault diagnosis in aero engines"
