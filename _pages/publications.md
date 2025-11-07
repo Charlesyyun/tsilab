@@ -53,11 +53,11 @@ permalink: /publications/
 
 
 ## Patents
+<em>Ye, Y., Xu, P., Li, Z., Zheng, P., Xing, L., Cao, S., & Miao, T.</em><br /> A Method and System for Analyzing Influencing Factors of Economic Losses Due to Accidents <br /> Authorised No.: CN119989853B, Patent No. ZL202411323810.0 (2025)
+
 <em>Ye, Y., Zhou, Z., Liang, H., Xie, J., Ying, C., Li, Z., & Che, Y.</em><br />The Human-Vehicle Interaction Simulation Method, System, and Application Based on the Improved Social Force Model<br /> Authorised No.: CN119358423B, Patent No. ZL202411932039.7 (2025)
 
 <em>Ye, Y., Li, Z., Liang, H., Sun, J., Che, Y. & Zhou, Z.</em><br />Assessment Method for Attention Allocation Mechanism of Pedestrian Crossing Based on Virtual Reality Simulation<br /> Authorised No.: CN118865280B, Patent No. ZL202411328427.4 (2024)
-
-<em>Ye, Y., Xu, P., Li, Z., Zheng, P., Xing, L., Cao, S., & Miao, T.</em><br /> A Method and System for Analyzing Influencing Factors of Economic Losses Due to Accidents <br /> Authorised No.: CN119358423B, Patent No. ZL202411932039.7 (2025)
 
 <em>Ye, Y., Liang, H., Sun, J., Chen, X., Zhou, Z., Xu, P., Che, Y. & Li, Z.</em><br /> A route choice optimization method for dynamic user equilibrium under strongly heterogeneous cost fields <br /> Publication No.: CN118607740A (2024)
 
