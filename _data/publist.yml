@@ -1,3 +1,12 @@
+- title: "A mixture-of-experts prior–posterior fusion framework for predicting the remaining useful life of aerospace high-speed bearings"
+  image: neucom1.png
+  description: "SCI, JCR Q1, IF 6.5"
+  authors: "Zhou, Q., Chai, B., Li, Y., Tang, C., Guo, Y., & Ye, Y.* (2026)"
+  link:
+    url: ""
+    display: "Neurocomputing, in press"
+  highlight: 1
+  
 - title: "Multimodal mechanical wear fault diagnosis: Fusion of signal characterization and image information"
   image: 
   description: "ESCI, JCR Q1, IF 7.9"
