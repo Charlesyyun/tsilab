@@ -1,3 +1,12 @@
+- title: "Risk-aware pedestrian-vehicle interaction: A multi-objective Bayesian optimized social force model"
+  image: ttra1.png
+  description: "SCI/SSCI, JCR Q2, IF 3.1"
+  authors: "Ye, Y., Zhou, Z., Ying, C., Xie, J., Chen, X., & Gao, Z.* (2026)"
+  link:
+    url: ""
+    display: "Transportmetrica A, in press"
+  highlight: 1
+  
 - title: "An enhanced connected banking system optimizer with multiple strategies for numerical optimization problems"
   image:
   description: "SCI, JCR Q1, IF 3.9"
