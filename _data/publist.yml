@@ -3,8 +3,8 @@
   description: "SCI, JCR Q1, IF 11.0"
   authors: "Ye, Y., Liu, M., Meng, F., Wong, S.C., Gao, X.*, & Yang, Z. (2026)"
   link:
-    url: ""
-    display: "Reliability Engineering & System Safety, in press"
+    url: "https://doi.org/10.1016/j.ress.2026.112423"
+    display: "Reliability Engineering & System Safety, 274, 112423"
   highlight: 1
   
 - title: "Risk-aware pedestrian-vehicle interaction: A multi-objective Bayesian optimized social force model"
