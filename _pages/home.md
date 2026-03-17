@@ -60,10 +60,10 @@ Traffic Safety and Intelligence Laboratory (TSI Lab) is part of Faculty of Marit
 
 
 
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nsfc.jpg" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nbu.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_zjnsf.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nbst.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_yongjiang.jpg" style="width: 100px">
-</figure>
+</figure> -->
