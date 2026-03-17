@@ -53,7 +53,7 @@ permalink: /
 </div>
 
 
-Traffic Safety and Intelligence Laboratory (TSI Lab) is part of Faculty of Maritime and Transportation, Ningbo University. The laboratory focuses on "human" as its core research subject and centers its studies around two main themes: traffic safety and intelligence. Its primary research areas include virtual reality (VR) simulations, human factors mechanisms, human-vehicle interaction, and pedestrian behavior. TSI Lab is dedicated to exploring new theories and methods at the forefront of interdisciplinary research to reveal and understand the human factors behind traffic issues, providing innovative perspectives and solutions to address and alleviate traffic problems.
+Traffic Safety and Intelligence Laboratory (TSI Lab) is part of Faculty of Maritime and Transportation, Ningbo University. The laboratory focuses on "human" as its core research subject and centers its studies around two main themes: traffic safety and intelligence. Its primary research areas include virtual reality (VR) simulations, human factors mechanisms, human-machine interaction, and travel behavior. TSI Lab is dedicated to exploring new theories and methods at the forefront of interdisciplinary research to reveal and understand the human factors behind traffic issues, providing innovative perspectives and solutions to address and alleviate traffic problems.
 
  **We are  looking for passionate new Phd and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
