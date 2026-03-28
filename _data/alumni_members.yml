@@ -10,17 +10,19 @@
   photo: male.png
   info: B.Eng., graduated 2024
   email: 
-  number_educ: 2
-  education1: B.Eng., Ningbo University
-  education2: The influence of rainy and foggy weather on human-vehicle interaction in the port
+  number_educ: 3
+  education1: MSC Shipmanagement (Ningbo) Co., Ltd.
+  education2: B.Eng., Ningbo University
+  education3: The influence of rainy and foggy weather on human-vehicle interaction in the port
 
 - name: Jiahao Zhang
   photo: jiahaozhang.png
-  info: B.Eng., graduated 2025 (Outstanding dissertation award), PhD candidate at Zhejiang University
+  info: B.Eng., graduated 2025 (Outstanding dissertation award)
   email: 
-  number_educ: 2
-  education1: B.Eng., Ningbo University
-  education2: Research on ship target detection under low resolution conditions
+  number_educ: 3
+  education1: PhD candidate, Zhejiang University
+  education2: B.Eng., Ningbo University
+  education3: Research on ship target detection under low resolution conditions
 
 - name: Qinyue Tan
   photo: female.png
@@ -34,17 +36,19 @@
   photo: male.png
   info: B.Eng., graduated 2025 (Outstanding dissertation award)
   email: 
-  number_educ: 2
-  education1: B.Eng., Ningbo University
-  education2: Prediction and analysis of ship accidents based on machine learning algorithm
+  number_educ: 3
+  education1: Master student, Ningbo University
+  education2: B.Eng., Ningbo University
+  education3: Prediction and analysis of ship accidents based on machine learning algorithm
 
 - name: Zhou Li
   photo: male.png
   info: B.Eng., graduated 2025
   email: 
-  number_educ: 2
-  education1: B.Eng., Ningbo University
-  education2: Research on ship target detection under low light condition
+  number_educ: 3
+  education1: Master student, The University of Tokyo
+  education2: B.Eng., Ningbo University
+  education3: Research on ship target detection under low light condition
   
 - name: Aoyu Zhang
   photo: male.png
