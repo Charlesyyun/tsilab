@@ -16,41 +16,41 @@
     display: "Transportmetrica A: Transport Science, 1-49"
   highlight: 1
   
-# - title: "An enhanced connected banking system optimizer with multiple strategies for numerical optimization problems"
-#   image:
-#   description: "SCI, JCR Q1, IF 3.9"
-#   authors: "Yin, Y., Liu, H., Cai, S., & Ye, Y.* (2026)"
-#   link:
-#     url: ""
-#     display: "Scientific Reports, in press"
-#   highlight: 0
+- title: "An enhanced connected banking system optimizer with multiple strategies for numerical optimization problems"
+  image:
+  description: "SCI, JCR Q1, IF 3.9"
+  authors: "Yin, Y., Liu, H., Cai, S., & Ye, Y.* (2026)"
+  link:
+    url: "https://doi.org/10.1038/s41598-026-38261-9"
+    display: "Scientific Reports, 16， 12564"
+  highlight: 0
   
-# - title: "An enhanced connected banking system optimizer incorporating triple mechanism for solving global optimization problems"
-#   image:
-#   description: "SCI, JCR Q1, IF 3.9"
-#   authors: "Qian, D., Cai, X., Feng, L., & Ye, Y.* (2026)"
-#   link:
-#     url: "https://doi.org/10.1038/s41598-026-36149-2"
-#     display: "Scientific Reports, in press"
-#   highlight: 0
+- title: "An enhanced connected banking system optimizer incorporating triple mechanism for solving global optimization problems"
+  image:
+  description: "SCI, JCR Q1, IF 3.9"
+  authors: "Qian, D., Cai, X., Feng, L., & Ye, Y.* (2026)"
+  link:
+    url: "https://doi.org/10.1038/s41598-026-36149-2"
+    display: "Scientific Reports, 16， 7747"
+  highlight: 0
   
-# - title: "A mixture-of-experts prior–posterior fusion framework for predicting the remaining useful life of aerospace high-speed bearings"
-#   image: neucom1.png
-#   description: "SCI, JCR Q1, IF 6.5"
-#   authors: "Zhou, Q., Chai, B., Li, Y., Tang, C., Guo, Y., & Ye, Y.* (2026)"
-#   link:
-#     url: "https://doi.org/10.1016/j.neucom.2025.132601"
-#     display: "Neurocomputing, 670, 132601"
-#   highlight: 1
+- title: "A mixture-of-experts prior–posterior fusion framework for predicting the remaining useful life of aerospace high-speed bearings"
+  image: neucom1.png
+  description: "SCI, JCR Q1, IF 6.5"
+  authors: "Zhou, Q., Chai, B., Li, Y., Tang, C., Guo, Y., & Ye, Y.* (2026)"
+  link:
+    url: "https://doi.org/10.1016/j.neucom.2025.132601"
+    display: "Neurocomputing, 670, 132601"
+  highlight: 1
   
-# - title: "Multimodal mechanical wear fault diagnosis: Fusion of signal characterization and image information"
-#   image: 
-#   description: "ESCI, JCR Q1, IF 7.9"
-#   authors: "Zhou, Q., Chai, B., Guo, Y., Li, T., Zhou, S., Wang, K., & Ye, Y.* (2025)"
-#   link:
-#     url: "https://doi.org/10.1016/j.rineng.2025.107204"
-#     display: "Results in Engineering, 28, 107204"
-#   highlight: 0
+- title: "Multimodal mechanical wear fault diagnosis: Fusion of signal characterization and image information"
+  image: 
+  description: "ESCI, JCR Q1, IF 7.9"
+  authors: "Zhou, Q., Chai, B., Guo, Y., Li, T., Zhou, S., Wang, K., & Ye, Y.* (2025)"
+  link:
+    url: "https://doi.org/10.1016/j.rineng.2025.107204"
+    display: "Results in Engineering, 28, 107204"
+  highlight: 0
   
 - title: "Varying effects of risk factors on economic losses from fishing vessel accidents: A Bayesian random-parameter quantile regression with heterogeneity in means"
   image: ress1.png
@@ -61,32 +61,32 @@
     display: "Reliability Engineering & System Safety, 266, 111690"
   highlight: 1
   
-# - title: "Enhanced YOLOv8 with DWR-DRB and SPD-Conv for mechanical wear fault diagnosis in aero engines"
-#   image: 
-#   description: "SCI, JCR Q2, IF 3.5"
-#   authors: "Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Nie, X., & Ye, Y.* (2025)"
-#   link:
-#     url: "https://doi.org/10.3390/s25175294"
-#     display: "Sensors, 25(17), 5294"
-#   highlight: 0
+- title: "Enhanced YOLOv8 with DWR-DRB and SPD-Conv for mechanical wear fault diagnosis in aero engines"
+  image: 
+  description: "SCI, JCR Q2, IF 3.5"
+  authors: "Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Nie, X., & Ye, Y.* (2025)"
+  link:
+    url: "https://doi.org/10.3390/s25175294"
+    display: "Sensors, 25(17), 5294"
+  highlight: 0
   
-# - title: "Enhancing multimodal fault diagnosis in mechanical systems via mixture of experts"
-#   image: cais1.png
-#   description: "SCI, JCR Q2, IF 4.6"
-#   authors: "Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Wu, W., Cao, B., & Ye, Y.* (2025)"
-#   link:
-#     url: "https://doi.org/10.1007/s40747-025-02061-x"
-#     display: "Complex & Intelligent Systems, 11, 425"
-#   highlight: 1
+- title: "Enhancing multimodal fault diagnosis in mechanical systems via mixture of experts"
+  image: cais1.png
+  description: "SCI, JCR Q2, IF 4.6"
+  authors: "Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Wu, W., Cao, B., & Ye, Y.* (2025)"
+  link:
+    url: "https://doi.org/10.1007/s40747-025-02061-x"
+    display: "Complex & Intelligent Systems, 11, 425"
+  highlight: 1
   
-# - title: "Feature enhancement based aero-engine lubricant consumption prediction: A BiTCN-BiGRU-Attention approach"
-#   image: aej1.png
-#   description: "SCI, JCR Q1, IF 6.8"
-#   authors: "Zhou, Q., Chai, B., Guo, Y., Wu, H., Wang, K., & Ye, Y.* (2025)"
-#   link:
-#     url: "https://doi.org/10.1016/j.aej.2025.06.020"
-#     display: "Alexandria Engineering Journal, 129, 137-167"
-#   highlight: 1
+- title: "Feature enhancement based aero-engine lubricant consumption prediction: A BiTCN-BiGRU-Attention approach"
+  image: aej1.png
+  description: "SCI, JCR Q1, IF 6.8"
+  authors: "Zhou, Q., Chai, B., Guo, Y., Wu, H., Wang, K., & Ye, Y.* (2025)"
+  link:
+    url: "https://doi.org/10.1016/j.aej.2025.06.020"
+    display: "Alexandria Engineering Journal, 129, 137-167"
+  highlight: 1
   
 - title: "A Transformer–VAE Approach for Detecting Ship Trajectory Anomalies in Cross-Sea Bridge Areas"
   image: 
