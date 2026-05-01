@@ -1,3 +1,12 @@
+- title: "AD-YOLO: A Unified Method for Traffic-Dense and Small Object Detection in UAV Images"
+  image:
+  description: "SCI, JCR Q1, IF 4.8"
+  authors: "Deng, Y., Hu, Y., Ye, Y., & Xu, P.* (2026)"
+  link:
+    url: "https://doi.org/10.3390/drones10050338"
+    display: "Drones, 10(5), 338"
+  highlight: 0
+
 - title: "Temporal instability analysis of fatal commercial fishing vessel incidents: A correlated random-parameter model with heterogeneity in means"
   image: ress2.png
   description: "SCI, JCR Q1, IF 11.0"
