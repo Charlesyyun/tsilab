@@ -1,3 +1,12 @@
+- title: "Enhancing safety in automated ports: A virtual reality study of pedestrian–autonomous vehicle interactions under time pressure, visual constraints, and varying vehicle size"
+  image: trip1.png
+  description: "ESCI, JCR Q2, IF 3.8"
+  authors: "Che, Y., Wong, M.O., Gao, X., Liang, H., & Ye, Y.* (2026)"
+  link:
+    url: ""
+    display: "Transportation Research Interdisciplinary Perspectives, in press"
+  highlight: 1
+  
 - title: "AD-YOLO: A Unified Method for Traffic-Dense and Small Object Detection in UAV Images"
   image:
   description: "SCI, JCR Q1, IF 4.8"
