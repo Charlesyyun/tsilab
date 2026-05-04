@@ -3,8 +3,8 @@
   description: "ESCI, JCR Q2, IF 3.8"
   authors: "Che, Y., Wong, M.O., Gao, X., Liang, H., & Ye, Y.* (2026)"
   link:
-    url: ""
-    display: "Transportation Research Interdisciplinary Perspectives, in press"
+    url: "https://doi.org/10.1016/j.trip.2026.102041"
+    display: "Transportation Research Interdisciplinary Perspectives, 37, 102041"
   highlight: 1
   
 - title: "AD-YOLO: A Unified Method for Traffic-Dense and Small Object Detection in UAV Images"
