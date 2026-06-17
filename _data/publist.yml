@@ -1,6 +1,6 @@
 - title: "Latent Diffusion Neural Fields for zero-shot and uncertainty-aware bearing remaining useful life prediction"
   image: 
-  description: "SCI, JCR Q1, IF 11.0"
+  description: "SCI, JCR Q1, IF 13.7"
   authors: "Zhou, Q., Chai, B., Tang, C., Guo, Y., & Ye, Y. * (2026)"
   link:
     url: ""
@@ -9,7 +9,7 @@
   
 - title: "Wait or cross? Understanding the influence of behavioral tendencies, trust, and risk perception on pedestrian gap-acceptance of automated truck platoons"
   image: trf1.png
-  description: "SCI, JCR Q1, IF 4.4"
+  description: "SCI, JCR Q1, IF 5.0"
   authors: "Ye, Y., Che, Y., Liang, H., Zhang, Y., & Xu, P. * (2026)"
   link:
     url: "https://doi.org/10.1016/j.trf.2026.103660"
@@ -18,7 +18,7 @@
   
 - title: "Bayesian spatio-temporal modeling of Arctic maritime incidents with integrated nested Laplace approximation"
   image: ress3.png
-  description: "SCI, JCR Q1, IF 11.0"
+  description: "SCI, JCR Q1, IF 13.7"
   authors: "Ye, Y.*, Liu, M., Liu, J., Zhu, K., Cheng, T., & Yang, Z. (2026)"
   link:
     url: ""
@@ -27,7 +27,7 @@
   
 - title: "Enhancing safety in automated ports: A virtual reality study of pedestrian–autonomous vehicle interactions under time pressure, visual constraints, and varying vehicle size"
   image: trip1.png
-  description: "ESCI, JCR Q2, IF 3.8"
+  description: "ESCI, JCR Q2, IF 4.8"
   authors: "Che, Y., Wong, M.O., Gao, X., Liang, H., & Ye, Y.* (2026)"
   link:
     url: "https://doi.org/10.1016/j.trip.2026.102041"
@@ -36,7 +36,7 @@
 
 - title: "Modeling Traffic Crash Severity in Complex Transportation Systems: An Efficient and Interpretable Tabular Learning Framework Under Class Imbalance"
   image: 
-  description: "SSCI, JCR Q1, IF 3.1"
+  description: "SSCI, JCR Q1, IF 3.9"
   authors: "Li, Z., Cao, S., Miao, T., Fang, B,, & Ye, Y.* (2026)"
   link:
     url: "https://doi.org/10.3390/systems14050548"
@@ -45,7 +45,7 @@
   
 - title: "AD-YOLO: A Unified Method for Traffic-Dense and Small Object Detection in UAV Images"
   image:
-  description: "SCI, JCR Q1, IF 4.8"
+  description: "SCI, JCR Q1, IF 5.2"
   authors: "Deng, Y., Hu, Y., Ye, Y., & Xu, P.* (2026)"
   link:
     url: "https://doi.org/10.3390/drones10050338"
@@ -54,7 +54,7 @@
 
 - title: "Temporal instability analysis of fatal commercial fishing vessel incidents: A correlated random-parameter model with heterogeneity in means"
   image: ress2.png
-  description: "SCI, JCR Q1, IF 11.0"
+  description: "SCI, JCR Q1, IF 13.7"
   authors: "Ye, Y., Liu, M., Meng, F., Wong, S.C., Gao, X.*, & Yang, Z. (2026)"
   link:
     url: "https://doi.org/10.1016/j.ress.2026.112423"
@@ -63,7 +63,7 @@
   
 - title: "Risk-aware pedestrian-vehicle interaction: A multi-objective Bayesian optimized social force model"
   image: ttra1.png
-  description: "SCI/SSCI, JCR Q2, IF 3.1"
+  description: "SCI/SSCI, JCR Q2, IF 3.9"
   authors: "Ye, Y., Zhou, Z., Ying, C., Xie, J., Chen, X., & Gao, Z.* (2026)"
   link:
     url: "https://doi.org/10.1080/23249935.2026.2627403"
@@ -72,7 +72,7 @@
   
 - title: "An enhanced connected banking system optimizer with multiple strategies for numerical optimization problems"
   image:
-  description: "SCI, JCR Q1, IF 3.9"
+  description: "SCI, JCR Q1, IF 4.9"
   authors: "Yin, Y., Liu, H., Cai, S., & Ye, Y.* (2026)"
   link:
     url: "https://doi.org/10.1038/s41598-026-38261-9"
@@ -81,7 +81,7 @@
   
 - title: "An enhanced connected banking system optimizer incorporating triple mechanism for solving global optimization problems"
   image:
-  description: "SCI, JCR Q1, IF 3.9"
+  description: "SCI, JCR Q1, IF 4.9"
   authors: "Qian, D., Cai, X., Feng, L., & Ye, Y.* (2026)"
   link:
     url: "https://doi.org/10.1038/s41598-026-36149-2"
@@ -90,7 +90,7 @@
   
 - title: "A mixture-of-experts prior–posterior fusion framework for predicting the remaining useful life of aerospace high-speed bearings"
   image: neucom1.png
-  description: "SCI, JCR Q1, IF 6.5"
+  description: "SCI, JCR Q1, IF 6.7"
   authors: "Zhou, Q., Chai, B., Li, Y., Tang, C., Guo, Y., & Ye, Y.* (2026)"
   link:
     url: "https://doi.org/10.1016/j.neucom.2025.132601"
@@ -99,7 +99,7 @@
   
 - title: "Multimodal mechanical wear fault diagnosis: Fusion of signal characterization and image information"
   image: 
-  description: "ESCI, JCR Q1, IF 7.9"
+  description: "ESCI, JCR Q1, IF 9.4"
   authors: "Zhou, Q., Chai, B., Guo, Y., Li, T., Zhou, S., Wang, K., & Ye, Y.* (2025)"
   link:
     url: "https://doi.org/10.1016/j.rineng.2025.107204"
@@ -108,7 +108,7 @@
   
 - title: "Varying effects of risk factors on economic losses from fishing vessel accidents: A Bayesian random-parameter quantile regression with heterogeneity in means"
   image: ress1.png
-  description: "SCI, JCR Q1, IF 11.0"
+  description: "SCI, JCR Q1, IF 13.7"
   authors: "Ye, Y., Zheng, P., Xu, P., Ren, Q., Yan, R., & Gao, X.* (2025)"
   link:
     url: "https://doi.org/10.1016/j.ress.2025.111690"
@@ -117,7 +117,7 @@
   
 - title: "Enhanced YOLOv8 with DWR-DRB and SPD-Conv for mechanical wear fault diagnosis in aero engines"
   image: 
-  description: "SCI, JCR Q2, IF 3.5"
+  description: "SCI, JCR Q2, IF 4.0"
   authors: "Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Nie, X., & Ye, Y.* (2025)"
   link:
     url: "https://doi.org/10.3390/s25175294"
@@ -126,7 +126,7 @@
   
 - title: "Enhancing multimodal fault diagnosis in mechanical systems via mixture of experts"
   image: cais1.png
-  description: "SCI, JCR Q2, IF 4.6"
+  description: "SCI, JCR Q2, IF 4.5"
   authors: "Zhou, Q., Chai, B., Tang, C., Guo, Y., Wang, K., Wu, W., Cao, B., & Ye, Y.* (2025)"
   link:
     url: "https://doi.org/10.1007/s40747-025-02061-x"
@@ -135,7 +135,7 @@
   
 - title: "Feature enhancement based aero-engine lubricant consumption prediction: A BiTCN-BiGRU-Attention approach"
   image: aej1.png
-  description: "SCI, JCR Q1, IF 6.8"
+  description: "SCI, JCR Q1, IF 6.4"
   authors: "Zhou, Q., Chai, B., Guo, Y., Wu, H., Wang, K., & Ye, Y.* (2025)"
   link:
     url: "https://doi.org/10.1016/j.aej.2025.06.020"
@@ -144,7 +144,7 @@
   
 - title: "A Transformer–VAE Approach for Detecting Ship Trajectory Anomalies in Cross-Sea Bridge Areas"
   image: 
-  description: "SCI, JCR Q2, IF 2.8"
+  description: "SCI, JCR Q2, IF 3.2"
   authors: "Hou, J., Zhou, H., Grifoll, M., Zhou, Y., Liu, J., Ye, Y.*, & Zheng, P. (2025)"
   link:
     url: "https://doi.org/10.3390/jmse13050849"
@@ -153,7 +153,7 @@
   
 - title: "Modeling economic loss associated with fishing vessel accidents: A Bayesian random-parameter generalized beta of the second kind model with heterogeneity in means"
   image: amar1.png
-  description: "SSCI, JCR Q1, IF 12.6"
+  description: "SSCI, JCR Q1, IF 10.7"
   authors: "Ye, Y., Zheng, P., Wang, Q., Wong, S.C., & Xu, P.* (2025)"
   link:
     url: "https://doi.org/10.1016/j.amar.2025.100384"
@@ -162,7 +162,7 @@
   
 - title: "USD-YOLO: An Enhanced YOLO Algorithm for Small Object Detection in Unmanned Systems Perception"
   image: 
-  description: "SCI, JCR Q2, IF 2.5"
+  description: "SCI, JCR Q2, IF 2.9"
   authors: "Deng, H., Zhang, S., Wang, X., Han, T. & Ye, Y.* (2025)"
   link:
     url: "https://doi.org/10.3390/app15073795"
@@ -171,7 +171,7 @@
   
 - title: "Distance-informed Neural Eikonal Solver for reactive dynamic user-equilibrium of macroscopic continuum traffic flow model"
   image: tits1.png
-  description: "SCI, JCR Q1, CCF B, IF 8.4"
+  description: "SCI, JCR Q1, CCF B, IF 9.1"
   authors: "Ye, Y., Liang, H., Sun, J., & Chen, X.* (2025)"
   link:
     url: "https://doi.org/10.1109/TITS.2025.3543972"
@@ -180,7 +180,7 @@
   
 - title: "Text as data: narrative mining of non-collision injury incidents on public buses by structural topic modeling"
   image: tbs2.png
-  description: "SSCI, JCR Q1, IF 5.7"
+  description: "SSCI, JCR Q1, IF 5.8"
   authors: "Xu, P., Wang, Q., Ye, Y., Wong, S.C., & Zhou, H.* (2025)"
   link:
     url: "https://doi.org/10.1016/j.tbs.2024.100981"
@@ -207,7 +207,7 @@
 
 - title: "Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning"
   image: tbs1.png
-  description: "SSCI, JCR Q1, IF 5.7"
+  description: "SSCI, JCR Q1, IF 5.8"
   authors: "Ye, Y., Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P.* (2024)"
   link:
     url: "https://doi.org/10.1016/j.tbs.2024.100760"
@@ -216,7 +216,7 @@
 
 - title: "Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules"
   image: ss1.png
-  description: "SCI, JCR Q1, IF 5.4"
+  description: "SCI, JCR Q1, IF 6.2"
   authors: "Ye, Y., Wong, S.C.*, Li, Y.C., & Choi, K.M. (2023)"
   link:
     url: "https://doi.org/10.1016/j.ssci.2022.105924"
@@ -225,7 +225,7 @@
 
 - title: "Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules"
   image: aap2.png
-  description: "SSCI, JCR Q1, IF 6.2"
+  description: "SSCI, JCR Q1, IF 7.4"
   authors: "Ye, Y., Wong, S.C.*, Meng, F., & Xu, P. (2021)"
   link:
     url: "https://doi.org/10.1016/j.aap.2020.105921"
@@ -234,7 +234,7 @@
 
 - title: "Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach"
   image: aap1.png
-  description: "SSCI, JCR Q1, IF 6.2"
+  description: "SSCI, JCR Q1, IF 7.4"
   authors: "Ye, Y., Wong, S.C.*, Li, Y.C., & Lau, Y.K. (2020)"
   link:
     url: "https://doi.org/10.1016/j.aap.2020.105565"
@@ -243,7 +243,7 @@
 
 - title: "A Novel virtual arrival optimization method for traffic organization scenarios"
   image: ShotNoise.png
-  description: "SCI/SSCI, JCR Q2, IF 3.3"
+  description: "SCI/SSCI, JCR Q2, IF 4.1"
   authors: "Shao, T., Du, W., Ye, Y., Li, H., Dong, J., Liu, G.*, & Zheng, P.* (2024)"
   link:
     url: "https://doi.org/10.1016/j.sust.2024.101010"
@@ -252,7 +252,7 @@
 
 - title: "Effects of aging on taxi service performance: A comparative study based on different age groups"
   image: ShotNoise.png
-  description: "SCI/SSCI, JCR Q2, IF 3.3"
+  description: "SCI/SSCI, JCR Q2, IF 4.1"
   authors: "Lin, X., Huang, Z., Ye, Y., Dong, J., Feng, H., & Zheng, P.* (2023)"
   link:
     url: "https://doi.org/10.1016/j.sust.2023.16096"
@@ -261,7 +261,7 @@
 
 - title: "Identification of risk influential factors for fishing vessel accidents using claims data from fishery mutual insurance association"
   image: ShotNoise.png
-  description: "SCI/SSCI, JCR Q2, IF 3.3"
+  description: "SCI/SSCI, JCR Q2, IF 4.1"
   authors: "Wang, F., Du, W., Feng, H., Ye, Y., Grifoll, M., Liu, G.*, & Zheng, P.* (2023)"
   link:
     url: "https://doi.org/10.1016/j.sust.2023.13427"
