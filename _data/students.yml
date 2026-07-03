@@ -46,37 +46,6 @@
   education1: B.Eng., Henan University of Science and Technology
   education2: Research interests include autonomous vehicle decision making and planning
 
-- name: Niuniu Wang
-  photo: female.png
-  info: B.Eng., graduated 2026
-  email: 
-  number_educ: 2
-  education1: B.Eng., Ningbo University
-  education2: Data-Augmented Prediction for Maritime Accidents with Class Imbalance Consideration
-
-- name: Xiaowen Sun
-  photo: female.png
-  info: B.Eng., graduated 2026
-  email: 
-  number_educ: 2
-  education1: B.Eng., Ningbo University
-  education2: Analysis of Port Resilience Based on Multiple Metrics in Complex Networks
-
-- name: Hongyi Ma
-  photo: male.png
-  info: B.Eng., graduated 2026
-  email: 
-  number_educ: 2
-  education1: B.Eng., Ningbo University
-  education2: Missing Data Imputation and Prediction for Fishing Vessel Accidents Based on Bipartite Graphs
-
-- name: Anxing Liu
-  photo: male.png
-  info: B.Eng., graduated 2026
-  email: 
-  number_educ: 2
-  education1: B.Eng., Ningbo University
-  education2: Prediction of Ship Accident Types in Polar Waters Based on Large Tabular Models
   
 - name: "This could be you !"
   photo: rock.jpg
