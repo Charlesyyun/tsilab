@@ -1,4 +1,31 @@
-- name: Xiang Li
+- name: Yuan Che
+  photo: yuanche.png
+  info: Master, graduated 2026
+  email: cy9866cy@163.com
+  number_educ: 2
+  education1: B.Eng., Anhui Jianzhu University
+  education2: Master, Ningbo University
+  education3: A Virtual Reality-Based Study on Pedestrian-Autonomous Trucks Crossing Interaction Behavior and Risk
+
+- name: Zexuan Li
+  photo: zexuanli.png
+  info: Master, graduated 2026
+  email: 13546545806@163.com
+  number_educ: 2
+  education1: B.Eng., Nantong University
+  education2: Master, Ningbo University
+  education3: Effects of Autonomous Vehicle External Human–Machine Interfaces on Pedestrian Crossing Behavior in Complex Multi-Lane Interaction Scenarios
+
+- name: Zhihao Zhou
+  photo: zhihaozhou.png
+  info: Master, graduated 2026
+  email: 772973238@qq.com
+  number_educ: 2
+  education1: B.Eng., Ningbo University of Technology
+  education2: Master, Ningbo University
+  education3: Research on Mechanism–Data Hybrid-Driven Pedestrian Behavior Simulation and Trajectory Prediction in Pedestrian–Vehicle Interaction Scenarios
+  
+  - name: Xiang Li
   photo: male.png
   info: B.Eng., graduated 2024
   email: 
