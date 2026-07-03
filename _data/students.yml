@@ -1,27 +1,3 @@
-- name: Yuan Che
-  photo: yuanche.png
-  info: Master, started Sep 2023
-  email: cy9866cy@163.com
-  number_educ: 2
-  education1: B.Eng., Anhui Jianzhu University
-  education2: Research interests include safety of autonomous trucks and pedestrian behavior
-
-- name: Zexuan Li
-  photo: zexuanli.png
-  info: Master, started Sep 2023
-  email: 13546545806@163.com
-  number_educ: 2
-  education1: B.Eng., Nantong University
-  education2: Research interests include external Human-Machine Interfaces, AVs, and cognition decision process
-
-- name: Zhihao Zhou
-  photo: zhihaozhou.png
-  info: Master, started Sep 2023
-  email: 772973238@qq.com
-  number_educ: 2
-  education1: B.Eng., Ningbo University of Technology
-  education2: Research interests include pedestrian-AVs interaction, social force model, data-based model, and trajectory prediction
-  
 - name: Zewei Li
   photo: zeweili.png
   info: Master, started Sep 2024
