@@ -1,0 +1,54 @@
+name: Sync unified TSI Lab pages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-unified-tsilab-pages
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out compatibility branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          fetch-depth: 0
+
+      - name: Download pages from the canonical unified site
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="https://raw.githubusercontent.com/Charlesyyun/Charlesyyun.github.io/gh-pages/tsilab"
+          for path in \
+            index.html \
+            gallery/index.html \
+            join/index.html \
+            publications/index.html \
+            research/index.html \
+            team/index.html
+          do
+            mkdir -p "$(dirname "$path")"
+            curl --fail --silent --show-error --location "$base/$path" --output "$path"
+          done
+
+      - name: Publish changes when needed
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html gallery/index.html join/index.html publications/index.html research/index.html team/index.html
+          if git diff --cached --quiet; then
+            echo "Compatibility pages are already current."
+            exit 0
+          fi
+          git commit -m "Sync unified TSI Lab pages"
+          git push origin HEAD:gh-pages
